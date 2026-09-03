@@ -281,8 +281,7 @@ olist-ecommerce-powerbi-analysis/
 └── documentation/
     └── project-notes.md
 
----
-
+```
 ## 📚 Learning Outcomes
 
 This project provided practical experience in:
